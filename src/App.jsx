@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
         <div className="button-container">
-        <a href="ChessHome.html" className="button"><b>Are You Ready for the Mind Game?</b></a>
+        <a href="CB.html" className="button"><b>Are You Ready for the Mind Game?</b></a>
       </div>
     </div>
   );
